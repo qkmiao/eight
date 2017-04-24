@@ -1,0 +1,9 @@
+{
+  "name": "Eight",
+  "start_url": "eight.html",
+  "xwalk_package_id": "com.example.eight",
+  "xwalk_command_line": "--ignore-gpu-blacklist --enable-unsafe-es3-apis",
+  "xwalk_target_platforms": [
+    "android"
+  ]
+}
